@@ -2,7 +2,7 @@
 I'm a baby data analyst🤓. TIL_ver1 is currently what I use.  
 I dream of growing up every day, step by step.  
 
-    'Better today than yesterday, better tomorrow than today.'
+    'Better today than yesterday, better tomorrow than today!'
 
 - 👀 I’m interested in time series data anlyzing, outliers detection, user profiling.
 - 🌱 I’m currently learning analyzing in a business perspective, Pandas and visualizing.
