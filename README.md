@@ -9,10 +9,10 @@ I dream of growing up every day, step by step.
 - 💞️ I’m looking to work in game industry or mobility industry data analyzing projects.  
 
 - 📫 How to reach me : djrozie@gmail.com
-- 🗂 This is my Notion : [http://bit.ly/notionPJE]
-- 🧩 HackerRank profile : [https://www.hackerrank.com/djrozie]
-- 🧩 Leetcode profile : [https://leetcode.com/Angela-Park-JE/]
-- 🧩 Programmers profile : []
+- 🗂 [This is my Notion](http://bit.ly/notionPJE)
+- 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)
+- 🧩 [Leetcode profile](https://leetcode.com/Angela-Park-JE/)
+- 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)
 
 
 <!---
