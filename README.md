@@ -7,12 +7,14 @@ I dream of growing up every day, step by step.
 - 👀 I’m interested in time series data anlyzing, outliers detection, user profiling.
 - 🌱 I’m currently studying: analyzing in a business perspective, visualizing, intensive functions of Pandas.
 - 💞️ I’m looking to work in game industry or mobility industry data analyzing projects.  
+- 🔥 But what I truly want to do is working with workmates who are passionate and responsible with good hearts. I'll be the one like that to you.
+<br>  
 
-- 📫 How to reach me : djrozie@gmail.com
-- 🗂 [This is my Notion](http://bit.ly/notionPJE)
-- 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)
-- 🧩 [Leetcode profile](https://leetcode.com/Angela-Park-JE/)
-- 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)
+- 📫 How to reach me : djrozie@gmail.com  
+- 🗂 [This is my Notion](http://bit.ly/notionPJE)  
+- 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)  
+- 🧩 [Leetcode profile](https://leetcode.com/Angela-Park-JE/)  
+- 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)  
 
 
 <!---
