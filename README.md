@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jung Eun Park.
-I'm a baby data analyst🤓. TIL_ver1 is currently what repository I use, 2022~2023.  
+I'm a baby data analyst🤓. TIL_ver1 is currently what repository I use, 2022~2024.  
 I dream of growing up every day, step by step.  
 
     'Better today than yesterday, better tomorrow than today!'
