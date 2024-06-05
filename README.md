@@ -4,13 +4,13 @@ I dream of growing up every day, step by step.
 
     'Better today than yesterday, better tomorrow than today!'
 
-- 👀 I’m interested in time series data, anomaly detection and user profiling.
-- 🌱 I’m currently studying: analyzing in a business perspective, visualizing, practical statistics for data analysis.
+- 👀 I’m interested in **time series data(especially anomaly detection)** and **user profiling for identifying and judging anomalies**.
+- 🌱 I’m currently studying: analyzing in a business perspective, visualizing for proper communication, practical statistics for data analysis. 
 - 💞️ I’m looking to work in game industry or mobility industry data analyzing projects.  
-- 🔥 But **what I truly want to do is working with workmates who are passionate and responsible with good hearts**. I'll be the one like that to you.
+- 🔥 **But what I truly want to do is working with workmates who are passionate and responsible with good hearts**. I'll be the one like that to you.
 <br>  
 
-- 📫 How to reach me : djrozie@gmail.com  
+- 📫 How to reach me : djrozie@gmail.com | Discord: banashot
 - 🗂 [This is my blog](https://angelapark.tistory.com/)  _It's a new one so fresher than Notion!_
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)  
 - 🧩 [Leetcode profile](https://leetcode.com/Angela-Park-JE/)  
