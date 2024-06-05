@@ -11,7 +11,7 @@ I dream of growing up every day, step by step.
 <br>  
 
 - 📫 How to reach me : djrozie@gmail.com | Discord: banashot
-- 🗂 [This is my blog](https://angelapark.tistory.com/)  _It's a new one so fresher than Notion!_
+- 🗂 [This is my blog](https://angelapark.tistory.com/)  _(It's a new one so fresher than Notion!)_
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)  
 - 🧩 [Leetcode profile](https://leetcode.com/Angela-Park-JE/)  
 - 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)  
