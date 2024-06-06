@@ -4,7 +4,7 @@ I dream of growing up every day, step by step.
 
     'Better today than yesterday, better tomorrow than today!'
 
-- 👀 I’m interested in **time series data(especially anomaly detection)** and **user profiling for identifying and judging anomalies**.
+- 👀 I’m interested in **Time Series Data**(especially **Anomaly Detection**) and **User Profiling** for identifying and judging anomalies.
 - 🌱 I’m currently studying: analyzing in a business perspective, visualizing for proper communication, practical statistics for data analysis. 
 - 💞️ I’m looking to work in game industry or mobility industry data analyzing projects.  
 - 🔥 **But what I truly want to do is working with workmates who are passionate and responsible with good hearts**. I'll be the one like that to you.
