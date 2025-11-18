@@ -10,7 +10,7 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🔥 **But what I truly want to do is working with workmates who are passionate and responsible with good hearts**. I'll be the one like that to you.
 <br>  
 
-- 📫 How to reach me : djrozie@gmail.com | Discord: banashot
+- 📫 How to reach me : djrozie@gmail.com 
 - 🪪 [This is Linkedin profile](https://www.linkedin.com/in/angelapje)
 - 🗂 [This is my blog](https://angelapark.tistory.com/)  _(It's a new one so fresher than Notion! But it's written in Korean...)_
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)
