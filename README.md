@@ -15,7 +15,7 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🗂 [This is my blog](https://angelapark.tistory.com/)  _(It's a new one so fresher than Notion! But it's written in Korean...)_
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)
 - 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)  
-- 🧩 [Leetcode profile](https://leetcode.com/Angela-Park-JE/)  
+
 
 
 
