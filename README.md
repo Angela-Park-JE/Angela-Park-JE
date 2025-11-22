@@ -18,6 +18,8 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - Community exp:
   - 9th Study in PsuedoLab
   - 10th Study in PsuedoLab
+  - PyTorch Korean traslation team in 2024 OSSCA
+  
 
 
 
