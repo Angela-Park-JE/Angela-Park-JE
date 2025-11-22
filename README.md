@@ -15,6 +15,9 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)
 - 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)  
 
+- Community exp:
+  - 9th Study in PsuedoLab
+  - 10th Study in PsuedoLab
 
 
 
