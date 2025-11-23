@@ -17,7 +17,7 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 
 - 🧑‍🤝‍🧑 Community exp.:
   - 9th Study in PsuedoLab 2024
-  - 10th Study in PsuedoLab 2025
+  - [10th Study](https://github.com/Pseudo-Lab/show-and-tell-ml) in PsuedoLab 2025
   - PyTorch Korean traslation team in 2024 OSSCA
   - PyTorch Korean User Group (2024~ing)
   
