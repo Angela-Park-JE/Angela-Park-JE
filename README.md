@@ -9,17 +9,17 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🔥 **But what I truly want to do is working with workmates who are passionate and responsible with good hearts**. I'll be the one like that to you.
 <br>  
 
-- 📫  djrozie@gmail.com 
+- 📫 djrozie@gmail.com 
 - 🪪 [This is Linkedin profile](https://www.linkedin.com/in/angelapje)
 - 🗂 [This is my blog](https://angelapark.tistory.com/)  _(It's a new one so fresher than Notion! But it's written in Korean...)_
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie)
 - 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)  
 
-- Community exp:
+- 🧑‍🤝‍🧑 Community exp.:
   - 9th Study in PsuedoLab 2024
   - 10th Study in PsuedoLab 2025
   - PyTorch Korean traslation team in 2024 OSSCA
-  - PyTorch Korean User Group (ing)
+  - PyTorch Korean User Group (2024~ing)
   
 
 
