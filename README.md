@@ -16,7 +16,7 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🧩 [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)  
 
 - 🧑‍🤝‍🧑 Community exp.:
-  - 9th Study in PsuedoLab 2024
+  - 9th Study in [PsuedoLab](https://chanrankim.notion.site/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09) 2024
   - [10th Study](https://github.com/Pseudo-Lab/show-and-tell-ml) in PsuedoLab 2025
   - PyTorch Korean traslation team in 2024 OSSCA
   - PyTorch Korean User Group (2024~ing)
