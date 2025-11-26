@@ -18,7 +18,7 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🧑‍🤝‍🧑 Community exp.:
   - 9th Study in [PsuedoLab](https://chanrankim.notion.site/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09) 2024 - [ch9](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch9/ch9-predict-future-sales.ipynb)
   - [10th Study](https://github.com/Pseudo-Lab/show-and-tell-ml) in PsuedoLab 2025 - [vizualization methods in ml](https://github.com/Pseudo-Lab/show-and-tell-ml/blob/f618eaf36434600da767cb18e491c8cdcd73e925/jungeun/part1-visualizing-method-by-purposes-edit250718.ipynb)
-  - PyTorch Korean traslation team in 2024 OSSCA
+  - Translation:PyTorch Documents to  Korean team in 2024 OSSCA
   - PyTorch Korean User Group (2024~ing)
   
 
