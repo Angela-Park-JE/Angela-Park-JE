@@ -20,7 +20,7 @@ I dream of growing up every day, step by step. Thank you for visiting me!
   - [10th Study](https://github.com/Pseudo-Lab/show-and-tell-ml) in PsuedoLab 2025 - [vizualization methods in ml](https://github.com/Pseudo-Lab/show-and-tell-ml/blob/f618eaf36434600da767cb18e491c8cdcd73e925/jungeun/part1-visualizing-method-by-purposes-edit250718.ipynb)
   - Translation:PyTorch Documents to Korean team in OSSCA 2024
   - PyTorch Korean User Group (2024~ing) 
-  - staff : PsuedoLab 8th Conference, PyTorch Korean User Group Seminar 5th, 6th
+  - staff : PsuedoLab 8th Conference in 2024, PyTorch Korean User Group Seminar 5th in 2025, 6th in 2025
 
 
 
@@ -28,4 +28,3 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 Angela-Park-JE/Angela-Park-JE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
