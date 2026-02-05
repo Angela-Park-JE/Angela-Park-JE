@@ -18,12 +18,11 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 - 🧩 [HackerRank profile](https://www.hackerrank.com/djrozie) / [Programmers profile](https://career.programmers.co.kr/pr/djrozie_4150)
  
 - 🧑‍🤝‍🧑 Community exp.:
-  - [9th Study](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/) in [PsuedoLab](https://chanrankim.notion.site/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09) 2024 - work: [ch9](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch9/ch9-predict-future-sales.ipynb)  
-  - [10th Study](https://github.com/Pseudo-Lab/show-and-tell-ml) in PsuedoLab 2025 - work: [vizualization methods in ml](https://github.com/Pseudo-Lab/show-and-tell-ml/blob/f618eaf36434600da767cb18e491c8cdcd73e925/jungeun/part1-visualizing-method-by-purposes-edit250718.ipynb)  
+  - [9th Study](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/) in [PsuedoLab](https://chanrankim.notion.site/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09) 2024 - [work: ch9](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch9/ch9-predict-future-sales.ipynb)  
+  - [10th Study](https://github.com/Pseudo-Lab/show-and-tell-ml) in PsuedoLab 2025 - [work: vizualization methods in ml](https://github.com/Pseudo-Lab/show-and-tell-ml/blob/f618eaf36434600da767cb18e491c8cdcd73e925/jungeun/part1-visualizing-method-by-purposes-edit250718.ipynb)  
   - [contributor](https://pytorch.kr/contributors/) for 'Translation PyTorch Documents to Korean' team in OSSCA 2024  
   - PyTorch Korean User Group (2024~2025)   
-  - staff : PsuedoLab 8th Conference in 2024 / PyTorch Korean User Group Seminar 5th in 2025 / PyTorch Korean User Group Seminar 6th in 2025  
-
+  - staff : PsuedoLab 8th Conference in 2024 / PyTorch Korean User Group Seminar 5th, 6th in 2025  
 
 
 <!---
