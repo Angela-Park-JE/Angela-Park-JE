@@ -4,12 +4,11 @@ I dream of growing up every day, step by step. Thank you for visiting me!
 
     'Better today than yesterday, better tomorrow than today!'
 
-- 👀 I’m interested in **Time Series Data**(especially **Anomaly Detection**)  
-     and **User Profiling** for identifying and judging anomalies.
+- 👀 I’m interested in **Time Series Data**(especially **Anomaly Detection**) and **User Profiling** for identifying and judging anomalies.
 - 🌱 I’m currently studying: analyzing in 
     <span style="color:Green">business perspective</span>, <span style="color:Green"> visualizing </span> for proper communication, <span style="color:Green"> practical statistics </span> for data analysis. 
 - 🔥 **But what I truly want to do is working with workmates who are passionate and responsible with good hearts**.  
-     I'll be the one like that to you.
+     I'll be the one like that to you. 
 <br>  
 
 - 📫 djrozie@gmail.com 
